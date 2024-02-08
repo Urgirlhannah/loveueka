@@ -1,0 +1,20 @@
+body{
+    background-color: pink;
+}
+h1{
+    color: palevioletred;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
+.mydiv{
+    text-align: center;
+    padding: 50px;
+}
+
+    
